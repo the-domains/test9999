@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[test999]]></title>
+        <description><![CDATA[test999]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 07:17:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scope of work]]></title>
+            <description><![CDATA[<p>Quisque aliquet dui sapien. In porttitor arcu in quam tincidunt posuere. Aliquam mollis dolor eget efficitur auctor. Integer nisl eros, interdum non accumsan nec, consectetur eget enim. Aenean enim est, gravida ac feugiat ut, venenatis sed augue. Pellentesque lobortis, nisi sed aliquam lobortis, mi diam mollis arcu, id tempus lorem tellus a lectus. Phasellus vel dui ut mauris eleifend pretium at ac orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis urna magna, pulvinar eu mauris ac, pulvinar commodo tortor. Praesent enim lectus, pretium et velit et, commodo tempus lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur convallis a quam ut congue. Morbi ultricies vel nisi mollis lacinia. Nulla condimentum varius nisl, sollicitudin accumsan justo dictum sit amet.</p>]]></description>
+            <link>undefinedscope-of-work/index.html</link>
+            <guid isPermaLink="false">536a641c-0b96-447f-8805-6c8ea0b8e1c4</guid>
+            <pubDate>Sun, 01 May 2016 07:17:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
