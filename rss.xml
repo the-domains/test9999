@@ -4,8 +4,15 @@
         <description><![CDATA[test999]]></description>
         <link>https://thegrid.ai/test9999/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 07:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2016 07:40:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/test9999/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scope of work]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4849c5f-72d8-4270-a318-88a4cf7d5cae.png">]]></description>
+            <link>https://thegrid.ai/test9999/scope-of-work/index.html</link>
+            <guid isPermaLink="false">536a641c-0b96-447f-8805-6c8ea0b8e1c4</guid>
+            <pubDate>Sun, 01 May 2016 07:40:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who we are]]></title>
             <description><![CDATA[<p>Quisque aliquet dui sapien. In porttitor arcu in quam tincidunt posuere. Aliquam mollis dolor eget efficitur auctor. Integer nisl eros, interdum non accumsan nec, consectetur eget enim. Aenean enim est, gravida ac feugiat ut, venenatis sed augue. Pellentesque lobortis, nisi sed aliquam lobortis, mi diam mollis arcu, id tempus lorem tellus a lectus. Phasellus vel dui ut mauris eleifend pretium at ac orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis urna magna, pulvinar eu mauris ac, pulvinar commodo tortor. Praesent enim lectus, pretium et velit et, commodo tempus lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur convallis a quam ut congue. Morbi ultricies vel nisi mollis lacinia. Nulla condimentum varius nisl, sollicitudin accumsan justo dictum sit amet.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/test9999/contact/index.html</link>
             <guid isPermaLink="false">b723b8de-253c-4fc8-9161-b66de5047284</guid>
             <pubDate>Sun, 01 May 2016 07:30:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scope of work]]></title>
-            <description><![CDATA[<p>Quisque aliquet dui sapien. In porttitor arcu in quam tincidunt posuere. Aliquam mollis dolor eget efficitur auctor. Integer nisl eros, interdum non accumsan nec, consectetur eget enim. Aenean enim est, gravida ac feugiat ut, venenatis sed augue. Pellentesque lobortis, nisi sed aliquam lobortis, mi diam mollis arcu, id tempus lorem tellus a lectus. Phasellus vel dui ut mauris eleifend pretium at ac orci. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis urna magna, pulvinar eu mauris ac, pulvinar commodo tortor. Praesent enim lectus, pretium et velit et, commodo tempus lectus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur convallis a quam ut congue. Morbi ultricies vel nisi mollis lacinia. Nulla condimentum varius nisl, sollicitudin accumsan justo dictum sit amet.</p>]]></description>
-            <link>https://thegrid.ai/test9999/scope-of-work/index.html</link>
-            <guid isPermaLink="false">536a641c-0b96-447f-8805-6c8ea0b8e1c4</guid>
-            <pubDate>Sun, 01 May 2016 07:17:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
