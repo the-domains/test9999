@@ -1,7 +1,7 @@
 name: test9999
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5072189439088106
+typography_spectrum: 1
 title: test999
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#DD403A'
   brandStrength: 0.29454757482744753
   lightness: 0.7030556490644813
-  saturation: 0.049206418450921774
-  rhythmicContrast: 0.1673091861885041
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
